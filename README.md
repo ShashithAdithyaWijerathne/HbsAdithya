@@ -33,3 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+<p align="right">Visitors count <img src="https://profile-counter.glitch.me/HbsAdithya/count.svg" />
+<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=HbsAdithya&show_icons=true&hide_border=true" />
