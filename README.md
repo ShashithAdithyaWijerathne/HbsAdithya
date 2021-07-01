@@ -35,4 +35,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <br/>
 <p align="right">Visitors count <img src="https://profile-counter.glitch.me/HbsAdithya/count.svg" />
-<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=HbsAdithya&show_icons=true&hide_border=true" />
+<img align="left" alt="HbsAdithya stats in github" src="https://github-readme-stats.vercel.app/api?username=HbsAdithya&show_icons=true&hide_border=true" />
