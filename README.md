@@ -36,3 +36,5 @@
 <br/>
 <p align="right">Visitors count <img src="https://profile-counter.glitch.me/HbsAdithya/count.svg" />
 <img align="left" alt="HbsAdithya stats in github" src="https://github-readme-stats.vercel.app/api?username=HbsAdithya&show_icons=true&hide_border=true" />
+  
+  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
