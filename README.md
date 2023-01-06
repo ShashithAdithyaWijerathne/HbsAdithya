@@ -6,11 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashith-adithya-876382182/)](https://www.linkedin.com/in/shashith-adithya-876382182/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12101570/hbs-adithya)](https://stackoverflow.com/users/12101570/hbs-adithya)
 
-![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=HbsAdithya&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HbsAdithya&layout=compact)
-
-
-✪   &nbsp; Undergratuate from [ SLIIT ](https://www.sliit.lk) <br/>
+✪   &nbsp; Gratuated from [ SLIIT ](https://www.sliit.lk) <br/>
 ✪   &nbsp; Full Stack Developer at [ AMAC ](https://www.amac.lk/) <br/>
 
 
