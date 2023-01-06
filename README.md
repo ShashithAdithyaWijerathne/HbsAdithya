@@ -7,7 +7,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12101570/hbs-adithya)](https://stackoverflow.com/users/12101570/hbs-adithya)
 
 ✪   &nbsp; Gratuated from [ SLIIT ](https://www.sliit.lk) <br/>
-✪   &nbsp; Full Stack Developer at [ AMAC ](https://www.amac.lk/) <br/>
+✪   &nbsp; Software Engineer at [HCL](https://www.hcltech.com/) <br/>
 
 
 ### Skills : <br/>
